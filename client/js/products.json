@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "productName": "Bombilla",
+        "price": 10,
+        "quanty": 1,
+        "img": "./media/bombilla.jpeg"
+    },
+    {
+        "id": 2,
+        "productName": "Mate",
+        "price": 30,
+        "quanty": 1,
+        "img": "./media/mate.jpg"
+    },
+    {
+        "id": 3,
+        "productName": "Matera",
+        "price": 40,
+        "quanty": 1,
+        "img": "./media/matera.jpeg"
+    },
+    {
+        "id": 4,
+        "productName": "Mochila Matera",
+        "price": 60,
+        "quanty": 1,
+        "img": "./media/mochilaMatera.jpeg"
+    },
+    {
+        "id": 5,
+        "productName": "Termo",
+        "price": 30,
+        "quanty": 1,
+        "img": "./media/termoStanley.jpg"
+    },
+    {
+        "id": 6,
+        "productName": "Yerbera",
+        "price": 30,
+        "quanty": 1,
+        "img": "./media/yerberaCuero.jpeg"
+    }
+]
